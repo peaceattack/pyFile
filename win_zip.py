@@ -7,4 +7,4 @@
  +MyZipOBJ.namelist()
  +
  +for i in MyZipOBJ.namelist():
- +    print 
+ +    print i
