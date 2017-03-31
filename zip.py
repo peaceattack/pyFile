@@ -6,4 +6,4 @@ MyZipOBJ = zipfile.ZipFile(MyZip)
 MyZipOBJ.namelist()
 
 for i in MyZipOBJ.namelist():
-    print 
+    print i
